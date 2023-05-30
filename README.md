@@ -6,6 +6,6 @@ The program asks the user for a password in plain text and gives back password's
 NOTE: This is not a useful password cracker in itself, as you hand it the password in plain text. The purpose is to be able to easily test and verify that it works.
 
 Example password times with 8 threads (i7 12700f processor):
-Password 'a': 441.80µs
-Password 'ab': 5.28ms
-Password 'gash': 24.13s
+* Password 'a': 441.80µs
+* Password 'ab': 5.28ms
+* Password 'gash': 24.13s
